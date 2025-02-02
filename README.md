@@ -5,7 +5,7 @@ Mini Chess game implementing Minimax and Alpha-Beta pruning.
 
 ### **Clone the repository**
 ```bash
-git clone git@github.com:username/COMP472-project.git
+git clone git@github.com:Shredsauce/COMP472-project.git
 cd COMP472-project
 ```
 
