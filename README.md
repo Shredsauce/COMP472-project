@@ -24,3 +24,5 @@ play
 Malcolm Arcand Laliberté - 26334792  
 Sukhdeep Singh Sandhu - 40132534  
 
+## Credits
+Chess piece [images](https://www.vecteezy.com/vector-art/49089132-chess-pieces-king-queen-bishop-knight-rook-and-pawn-and-bishop-success-strategy)   used in this project are sourced under license from ©Vecteezy
